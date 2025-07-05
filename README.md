@@ -429,8 +429,8 @@ Contribuições são sempre bem-vindas! Para contribuir:
 - [VS Code Debugging](https://code.visualstudio.com/docs/editor/debugging)
 
 ### **Artigos Recomendados:**
-- [Debugging Node.js in Production](https://blog.risingstack.com/debugging-nodejs-in-production/)
-- [Advanced Node.js Debugging](https://www.smashingmagazine.com/2018/10/nodejs-debugging-best-practices/)
+- [Debugging Node.js in Production](https://www.notion.so/Debugging-227f7ec88ab6809eb6f2e9949a4a6a94)
+- [Advanced Node.js Debugging](https://www.notion.so/Debugging-227f7ec88ab6809eb6f2e9949a4a6a94)
 
 ### **Ferramentas Complementares:**
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - Node Debugger by Google
