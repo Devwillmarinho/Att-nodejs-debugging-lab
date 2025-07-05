@@ -407,11 +407,11 @@ Contribuições são sempre bem-vindas! Para contribuir:
 
 ## 👨‍💻 Autor
 
-**[Seu Nome]**
-- 🐙 GitHub: [@seu-usuario](https://github.com/Devwillmarinho)
-- 💼 LinkedIn: [Seu Perfil](https://linkedin.com/in/willian-marinho-492811162)
+**[DevWillMarinho]**
+- 🐙 GitHub: [@Devwillmarinho](https://github.com/Devwillmarinho)
+- 💼 LinkedIn: [Willian Marinho](https://linkedin.com/in/willian-marinho-492811162)
 - 📧 Email: willmarinho97@gmail.com
-- 🌐 Portfolio: [seu-portfolio.com](https://seu-portfolio.com)
+- 🌐 Portfolio: [WillDev](https://seu-portfolio.com)
 
 ## 🙏 Agradecimentos
 
